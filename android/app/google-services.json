@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484007056544",
+    "project_id": "doclean--project",
+    "storage_bucket": "doclean--project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484007056544:android:773455ad75089d69f265c5",
+        "android_client_info": {
+          "package_name": "com.example.do_clean_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484007056544-20dp1cdv6kmh9dauektjq4kr699b4fjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAem9KdkPcuSQ3GLjdUQtFyvLWfqVEZYS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484007056544-20dp1cdv6kmh9dauektjq4kr699b4fjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
