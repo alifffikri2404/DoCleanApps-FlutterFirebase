@@ -15,10 +15,10 @@ The application is built using the **Flutter framework** with **Dart** as the pr
 ## Credits
 
 - Developed by: **The Builders**
-- **Muhammad Aliff Fikri bin Anuar Hidayat (Team Leader)**
-- **Muhammad Azman bin Habeeb Mohammed**
-- **Nurul Nadhirah binti Ismail**
-- **Nurfarizah binti Sa'at**
+  - **Muhammad Aliff Fikri bin Anuar Hidayat (Team Leader)**
+  - **Muhammad Azman bin Habeeb Mohammed**
+  - **Nurul Nadhirah binti Ismail**
+  - **Nurfarizah binti Sa'at**
 
 ## Updates
 
