@@ -12,6 +12,10 @@ DoClean! is an **intuitive housekeeping service application** that ensures seaml
 
 The application is built using the **Flutter framework** with **Dart** as the primary programming language. **Firebase** integration is implemented to manage and store customer information, ensuring a smooth and reliable experience.
 
+## Screenshot
+
+![Housekeeping Image](./screenshot.jpg)
+
 ## Credits
 
 - Developed by: **The Builders**
