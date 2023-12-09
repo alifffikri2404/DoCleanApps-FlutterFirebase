@@ -26,4 +26,4 @@ The application is built using the **Flutter framework** with **Dart** as the pr
 
 ## Updates
 
-- Last Update: **19th January 2023**
+- Last update: **19th January 2023**
