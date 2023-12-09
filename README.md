@@ -14,7 +14,7 @@ The application is built using the **Flutter framework** with **Dart** as the pr
 
 ## Screenshot
 
-![Housekeeping Image](./screenshot.jpg)
+<img src=".screenshot.jpg" alt="Housekeeping Image" width="300" height="200">
 
 ## Credits
 
